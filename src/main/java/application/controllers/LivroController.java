@@ -13,7 +13,8 @@ public class LivroController {
     private LivroRepository livrosRepo;
     @RequestMapping("/list")
     public String list(Model model){
-        
+        model.addAttribute("livros", livrosRepo.findAll());
+        return "list.jsp";
     }
     
 }
