@@ -7,6 +7,6 @@
         <link href="css/default.css" rel="stylesheet" />
     </head>
     <body>
-        <h1>Lista de livros!!! Isaque Katahira</h1>
+        <h1>Lista de livros! Tamara Oliveira</h1>
     </body>
 </html>
